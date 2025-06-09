@@ -929,6 +929,26 @@
     [
       "6428906d-2278-429f-b11f-f65cfb2c8bcd",
       "Root"
+    ],
+    [
+      "b87037a0-a686-4cbf-a509-20b2a78bd513",
+      "Main"
+    ],
+    [
+      "bca91c4a-b909-4000-9da3-d10e5b82a33b",
+      "Radar"
+    ],
+    [
+      "f6470745-fb73-4ab3-b77c-eb72264f2527",
+      "Power"
+    ],
+    [
+      "ef2a5c5c-8707-4f93-865b-02d0bfa8bd24",
+      "Serial"
+    ],
+    [
+      "ffd23643-debc-489d-aa6c-d8651149dea7",
+      "IR"
     ]
   ],
   "text_variables": {}
