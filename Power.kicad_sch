@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "XM125 Radr for MINTIA DC-H038Z")
-		(date "2025-05-20")
-		(rev "0")
+		(date "2025-06-18")
+		(rev "1")
 		(company "ハートランド・データ株式会社")
 	)
 	(lib_symbols

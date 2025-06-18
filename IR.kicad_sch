@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "1accae26-7603-44ab-84a6-2ce3d5aa46ff")
 	(paper "A4")
+	(title_block
+		(date "2025-06-18")
+		(rev "1")
+	)
 	(lib_symbols
 		(symbol "Device:R"
 			(pin_numbers
