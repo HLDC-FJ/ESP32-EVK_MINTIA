@@ -1,0 +1,11 @@
+Plotted to 'C:\Proj\CAD\KiCAD\Work\Mini_3_IR\GB\Work-F_Cu.gtl'.
+Plotted to 'C:\Proj\CAD\KiCAD\Work\Mini_3_IR\GB\Work-B_Cu.gbl'.
+Plotted to 'C:\Proj\CAD\KiCAD\Work\Mini_3_IR\GB\Work-F_Paste.gtp'.
+Plotted to 'C:\Proj\CAD\KiCAD\Work\Mini_3_IR\GB\Work-B_Paste.gbp'.
+Plotted to 'C:\Proj\CAD\KiCAD\Work\Mini_3_IR\GB\Work-F_Silkscreen.gto'.
+Plotted to 'C:\Proj\CAD\KiCAD\Work\Mini_3_IR\GB\Work-B_Silkscreen.gbo'.
+Plotted to 'C:\Proj\CAD\KiCAD\Work\Mini_3_IR\GB\Work-F_Mask.gts'.
+Plotted to 'C:\Proj\CAD\KiCAD\Work\Mini_3_IR\GB\Work-B_Mask.gbs'.
+Plotted to 'C:\Proj\CAD\KiCAD\Work\Mini_3_IR\GB\Work-Edge_Cuts.gm1'.
+情報: Done.
+情報: Done.
